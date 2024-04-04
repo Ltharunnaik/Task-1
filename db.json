@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": "a489",
+      "firstName": "Tharun",
+      "lastName": "Lakavath",
+      "dob": "2024-03-05T18:30:00.000Z",
+      "email": "tharunlakavath256@gmail.com",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Uno Carrer",
+      "experience": 1,
+      "package": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": null
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": null
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
